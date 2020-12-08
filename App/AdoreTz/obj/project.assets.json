@@ -6138,19 +6138,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Ibra\\.nuget\\packages\\": {}
+    "C:\\Users\\WeCode-Ibu\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ibra\\Documents\\GitHub\\Adoretz\\App\\AdoreTz\\AdoreTz.csproj",
+      "projectUniqueName": "C:\\Users\\WeCode-Ibu\\Documents\\GitHub\\Adoretz\\App\\AdoreTz\\AdoreTz.csproj",
       "projectName": "AdoreTz",
-      "projectPath": "C:\\Users\\Ibra\\Documents\\GitHub\\Adoretz\\App\\AdoreTz\\AdoreTz.csproj",
-      "packagesPath": "C:\\Users\\Ibra\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ibra\\Documents\\GitHub\\Adoretz\\App\\AdoreTz\\obj\\",
+      "projectPath": "C:\\Users\\WeCode-Ibu\\Documents\\GitHub\\Adoretz\\App\\AdoreTz\\AdoreTz.csproj",
+      "packagesPath": "C:\\Users\\WeCode-Ibu\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\WeCode-Ibu\\Documents\\GitHub\\Adoretz\\App\\AdoreTz\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Ibra\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\WeCode-Ibu\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

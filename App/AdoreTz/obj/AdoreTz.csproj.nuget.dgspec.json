@@ -14,7 +14,7 @@
         "outputPath": "C:\\Users\\Ibra\\Documents\\GitHub\\Adoretz\\App\\AdoreTz\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Ibra\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\WeCode-Ibu\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
