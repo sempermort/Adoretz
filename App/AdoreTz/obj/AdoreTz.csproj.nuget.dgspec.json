@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\semperjack\\Documents\\TrueCoderz\\gittested\\Adoretz\\App\\AdoreTz\\AdoreTz.csproj": {}
+    "c:\\Users\\semperjack\\Documents\\TrueCoderz\\gittested\\Adoretz\\App\\AdoreTz\\AdoreTz.csproj": {}
   },
   "projects": {
-    "C:\\Users\\semperjack\\Documents\\TrueCoderz\\gittested\\Adoretz\\App\\AdoreTz\\AdoreTz.csproj": {
+    "c:\\Users\\semperjack\\Documents\\TrueCoderz\\gittested\\Adoretz\\App\\AdoreTz\\AdoreTz.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\semperjack\\Documents\\TrueCoderz\\gittested\\Adoretz\\App\\AdoreTz\\AdoreTz.csproj",
+        "projectUniqueName": "c:\\Users\\semperjack\\Documents\\TrueCoderz\\gittested\\Adoretz\\App\\AdoreTz\\AdoreTz.csproj",
         "projectName": "AdoreTz",
-        "projectPath": "C:\\Users\\semperjack\\Documents\\TrueCoderz\\gittested\\Adoretz\\App\\AdoreTz\\AdoreTz.csproj",
+        "projectPath": "c:\\Users\\semperjack\\Documents\\TrueCoderz\\gittested\\Adoretz\\App\\AdoreTz\\AdoreTz.csproj",
         "packagesPath": "C:\\Users\\semperjack\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\semperjack\\Documents\\TrueCoderz\\gittested\\Adoretz\\App\\AdoreTz\\obj\\",
+        "outputPath": "c:\\Users\\semperjack\\Documents\\TrueCoderz\\gittested\\Adoretz\\App\\AdoreTz\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",

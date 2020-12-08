@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Jq2M94DL1KuW7skBvgW9d8fMwbL+z14DTc4x+dJZmi4M9NjRhJ71I4iqxo5jf3T88n8P9Wr2uxggKBIge2X3/w==",
+  "dgSpecHash": "iGkSj9NOX0Uv1pq6Ejhl8H8pECvzGkP70zqOvw1i7jDvSa+ukpBy7dK5IajLYd3AiKfEHKRTlIOe6qoNt+TXCw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\semperjack\\Documents\\TrueCoderz\\gittested\\Adoretz\\App\\AdoreTz\\AdoreTz.csproj",
+  "projectFilePath": "c:\\Users\\semperjack\\Documents\\TrueCoderz\\gittested\\Adoretz\\App\\AdoreTz\\AdoreTz.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\semperjack\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\3.1.8\\microsoft.aspnetcore.cryptography.internal.3.1.8.nupkg.sha512",
     "C:\\Users\\semperjack\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\3.1.8\\microsoft.aspnetcore.cryptography.keyderivation.3.1.8.nupkg.sha512",
