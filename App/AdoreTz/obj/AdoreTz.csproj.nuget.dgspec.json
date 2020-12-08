@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\semperjack\\Documents\\TrueCoderz\\gittested\\Adoretz\\App\\AdoreTz\\AdoreTz.csproj": {}
+    "C:\\Users\\Ibra\\Documents\\GitHub\\Adoretz\\App\\AdoreTz\\AdoreTz.csproj": {}
   },
   "projects": {
-    "c:\\Users\\semperjack\\Documents\\TrueCoderz\\gittested\\Adoretz\\App\\AdoreTz\\AdoreTz.csproj": {
+    "C:\\Users\\Ibra\\Documents\\GitHub\\Adoretz\\App\\AdoreTz\\AdoreTz.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\semperjack\\Documents\\TrueCoderz\\gittested\\Adoretz\\App\\AdoreTz\\AdoreTz.csproj",
+        "projectUniqueName": "C:\\Users\\Ibra\\Documents\\GitHub\\Adoretz\\App\\AdoreTz\\AdoreTz.csproj",
         "projectName": "AdoreTz",
-        "projectPath": "c:\\Users\\semperjack\\Documents\\TrueCoderz\\gittested\\Adoretz\\App\\AdoreTz\\AdoreTz.csproj",
-        "packagesPath": "C:\\Users\\semperjack\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\semperjack\\Documents\\TrueCoderz\\gittested\\Adoretz\\App\\AdoreTz\\obj\\",
+        "projectPath": "C:\\Users\\Ibra\\Documents\\GitHub\\Adoretz\\App\\AdoreTz\\AdoreTz.csproj",
+        "packagesPath": "C:\\Users\\Ibra\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Ibra\\Documents\\GitHub\\Adoretz\\App\\AdoreTz\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Ibra\\AppData\\Roaming\\NuGet\\NuGet.Config",
