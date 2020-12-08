@@ -1,21 +1,26 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\semperjack\\Documents\\TrueCoderz\\gittested\\Adoretz\\App\\AdoreTz\\AdoreTz.csproj": {}
+    "C:\\Users\\semperjack\\Documents\\TrueCoderz\\gittested\\Adoretz\\App\\AdoreTz\\AdoreTz.csproj": {}
   },
   "projects": {
-    "c:\\Users\\semperjack\\Documents\\TrueCoderz\\gittested\\Adoretz\\App\\AdoreTz\\AdoreTz.csproj": {
+    "C:\\Users\\semperjack\\Documents\\TrueCoderz\\gittested\\Adoretz\\App\\AdoreTz\\AdoreTz.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\semperjack\\Documents\\TrueCoderz\\gittested\\Adoretz\\App\\AdoreTz\\AdoreTz.csproj",
+        "projectUniqueName": "C:\\Users\\semperjack\\Documents\\TrueCoderz\\gittested\\Adoretz\\App\\AdoreTz\\AdoreTz.csproj",
         "projectName": "AdoreTz",
-        "projectPath": "c:\\Users\\semperjack\\Documents\\TrueCoderz\\gittested\\Adoretz\\App\\AdoreTz\\AdoreTz.csproj",
+        "projectPath": "C:\\Users\\semperjack\\Documents\\TrueCoderz\\gittested\\Adoretz\\App\\AdoreTz\\AdoreTz.csproj",
         "packagesPath": "C:\\Users\\semperjack\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\semperjack\\Documents\\TrueCoderz\\gittested\\Adoretz\\App\\AdoreTz\\obj\\",
+        "outputPath": "C:\\Users\\semperjack\\Documents\\TrueCoderz\\gittested\\Adoretz\\App\\AdoreTz\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Ibra\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\semperjack\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -26,6 +31,7 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -37,6 +43,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "dependencies": {
             "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": {
               "target": "Package",
@@ -81,7 +88,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }
