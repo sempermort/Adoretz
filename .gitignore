@@ -2,9 +2,12 @@
 /App/AdoreTz/.vs
 /App/AdoreTz/bin
 
-.suo
-.dll
-.pdb
-.cache
-.exe
-.xml
+*.suo
+*.dll
+*.pdb
+*.cache
+*.exe
+*.xml
+*.pdb
+*.dll
+

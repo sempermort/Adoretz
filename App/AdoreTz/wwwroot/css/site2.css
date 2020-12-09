@@ -1,4 +1,4 @@
-@charset "utf-8";
+﻿@charset "utf-8";
 /* CSS Document */
 *,
 *::after,
@@ -8,9 +8,11 @@
   box-sizing: inherit;
 }
 
+
 body {
   box-sizing: border-box;
 }
+
 .margin-right70 {
   margin-left: 60% !important;
 }
@@ -94,7 +96,7 @@ h2.code-zeW::after {
   height: 60px;
   border-radius: 10px;
   font-size: 30px;
-  line-height: 60px;
+  line-height: 35px;
   text-align: center;
 }
 

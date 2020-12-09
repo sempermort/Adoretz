@@ -6,16 +6,26 @@
     <title>@ViewData["Title"] - AdoreTz</title>
     <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
     <link rel="stylesheet" href="~/css/site.css" />
+    <link rel="stylesheet" href="~/css/site2.css" />
+    <link rel="stylesheet" href="~/css/multitemslide.css" />
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.1/css/all.css"
+          integrity="sha384-vp86vTRFVJgpjF9jiIGPEEqYqlDwgyBgEF109VFjmqGmIY/Y4HV4d3Gp2irVfcrp" crossorigin="anonymous">
+    <link rel="shortcut icon" type="image/jpg" href="images/favicon.png" />
+    <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+
 </head>
 <body>
     <header>
-        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
-            <div class="container">
-                <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">AdoreTz</a>
-                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target=".navbar-collapse" aria-controls="navbarSupportedContent"
-                        aria-expanded="false" aria-label="Toggle navigation">
-                    <span class="navbar-toggler-icon"></span>
-                </button>
+        <nav class="navbar navbar-expand-lg  fixed-top bg-colori" id="mainavbar">
+            <a class="navbar-brand logo" asp-area="" asp-controller="Home" asp-action="Index">
+                <img src="~/images/Adoretz-Logo.png" class="img-fluid logo1" alt="Main Logo">
+            </a>
+
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
+                    aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse   " id="navbarSupportedContent">
                 <div class="navbar-collapse collapse d-sm-inline-flex flex-sm-row-reverse">
                     <partial name="_LoginPartial" />
                     <ul class="navbar-nav flex-grow-1">
@@ -27,18 +37,80 @@
                         </li>
                     </ul>
                 </div>
+
             </div>
         </nav>
+       
     </header>
-    <div class="container">
-        <main role="main" class="pb-3">
+    <div class="contain">
+        <main role="main" class="">
             @RenderBody()
         </main>
     </div>
 
-    <footer class="border-top footer text-muted">
-        <div class="container">
-            &copy; 2020 - AdoreTz - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+    <footer >
+        <div class="contain">
+            <ul class="navi ">
+                <li class="col-aut "> <a class="nav-linka active" href="#">Tab 1</a> </li>
+                <li class="col-aut "> <a class="nav-linka" href="#">Tab 2</a> </li>
+                <li class="col-aut "> <a class="nav-linka" href="#">Tab 3</a> </li>
+                <li class="col-aut "> <a class="nav-linka disabled" href="#">Disabled tab</a> </li>
+            </ul>
+            <div class="foot">
+                <div class="row">
+                    <div class="col-4 tx">
+                        <h4>
+                            AdoretZ </h4>
+                            <p class="card-text">
+                                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quia iusto libero
+                                ad facere dolores, dignissimos, ducimus incidunt eum odit odio suscipit quas a atque temporibus.
+                            </p>
+                    </div>
+                    <div class="col-2 tx">
+                        <h4>
+                            Useful Links</h4>
+                            <nav>
+                                <ul>
+                                    <li>Home</li>
+                                    <li>Pages</li>
+                                    <li>Portfolio</li>
+                                    <li>Blog</li>
+                                    <li>Elements</li>
+                                    <li>Contacts</li>
+                                </ul>
+                            </nav>
+                    </div>
+                    <div class="col-2 tx">
+                        <h4>Social</h4>
+                            <nav>
+                                <ul>
+                                    <li>Facebook</li>
+                                    <li>Linkedin</li>
+                                    <li>Instagram</li>
+                                    <li>Twitter</li>
+
+                                </ul>
+                            </nav>
+                    </div>
+                    <div class="col-4 tx">
+                        <h4>
+                            Contact Us </h4>
+
+                            <p class="card-text">Phone +39 123456789</p>
+                            <p class="card-text">Mail mail@domain.com</p>
+                            <p class="card-text">Monday to Friday 9.00 am to 8.00 pm</p>
+
+                            <p class="card-text">322 Moon St, Venice</p>
+                            <p class="card-text">taly, 1231</p>
+
+                    </div>
+                </div>
+
+                <div class="coy">
+                    <p>  &copy; 2020 - AdoreTz - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a></p>
+                </div>
+            </div>
+          
         </div>
     </footer>
     <script src="~/lib/jquery/dist/jquery.min.js"></script>
