@@ -2,4 +2,7 @@
 /App/AdoreTz/.vs
 /App/AdoreTz/bin
 
-App/AdoreTz/.vs/AdoreTz/v16/.suo
+.suo
+.dll
+.pdb
+.cache
