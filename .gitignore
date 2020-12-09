@@ -1,4 +1,4 @@
-App/AdoreTz/bin/
-App/AdoreTz/obj/
-App/AdoreTz/appsettings.json
-App/AdoreTz/.vs
+/App/AdoreTz/obj
+/App/AdoreTz/.vs
+/App/AdoreTz/bin
+
