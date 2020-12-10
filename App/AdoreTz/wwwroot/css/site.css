@@ -65,7 +65,13 @@ html {
   white-space: nowrap;
   line-height: 60px; /* Vertically center the text there */
 }
+
 .logo1 {
     width: 45%!important;
     height: auto
+}
+
+.contained {
+    margin: 100px auto 30px auto;
+    width: 69%;
 }
